@@ -5,7 +5,7 @@ module.exports = {
         main: path.resolve(__dirname, "src/index.js")
     },
     output: {
-        filename: "hash.js",
+        filename: "[hash].js",
         path: path.resolve(__dirname, "dist")
     }
 }
