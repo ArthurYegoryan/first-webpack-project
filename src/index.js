@@ -1,1 +1,2 @@
-console.log("Barlus hayer");
+console.log("Barlus");
+console.log("Hayer");
